@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background-color: beige;
+}
+
+button {
+    color: green;
+}
+#employeeList {
+    text-align: center;
+    font-style: italic;
+}
+h1 {
+    text-align: center;
+}
